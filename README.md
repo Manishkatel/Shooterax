@@ -37,7 +37,9 @@ git clone https://github.com/Manishkatel/Alien_Shooter.git
 cd game-project
 pip install pygame
 python main.py
+
 '''
+
 
 <p align="center"> <h1>ENJOY THE GAME! 🎮🚀</h1> </p>
 
