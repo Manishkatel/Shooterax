@@ -32,7 +32,7 @@ Frameworks: Pygame
 Tools: GitHub, VS Code
 
 ## 🎬 Installation & Usage
-''''
+'''
 git clone https://github.com/Manishkatel/Alien_Shooter.git
 cd game-project
 pip install pygame
