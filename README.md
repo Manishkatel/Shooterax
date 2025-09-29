@@ -1,4 +1,4 @@
-# 🎮 ALIEN_SHOOTER
+# 🎮 Shooterax
 
 ## 🚀 Overview
 
@@ -29,11 +29,11 @@ Here are some screenshots of the game in action:
 
 Programming Language: Python
 Frameworks: Pygame
-Tools: GitHub, VS Code
+Tools: GitHub, PyCharm
 
 ## 🎬 Installation & Usage
 ```
-git clone https://github.com/Manishkatel/Alien_Shooter.git
+git clone https://github.com/Manishkatel/Shooterax.git
 cd game-project
 pip install pygame
 python main.py
