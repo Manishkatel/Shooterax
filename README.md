@@ -34,9 +34,8 @@ Tools: GitHub, PyCharm
 ## 🎬 Installation & Usage
 ```
 git clone https://github.com/Manishkatel/Shooterax.git
-cd game-project
 pip install pygame
-python main.py
+python newgame.py
 
 ```
 
