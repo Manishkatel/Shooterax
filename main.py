@@ -83,7 +83,7 @@ def fire_bullet(x, y):
 
 def isCollision(enemyX, enemyY, bulletX, bulletY):
     distance = math.sqrt((math.pow(enemyX - bulletX, 2)) + (math.pow(enemyY - bulletY, 2)))  # Calculate the distance between the enemy and the bullet
-    if distance < 27:  # Check if the distance is less than 27 pixels
+    if distance < 26.5:  # Check if the distance is less than 27 pixels
         return True  # Return True if there is a collision.
     else:
         return False
