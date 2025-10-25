@@ -7,7 +7,7 @@ from pygame import mixer
 pygame.init()
 
 # Creating the screen
-screen = pygame.display.set_mode((800, 600))
+screen = pygame.display.set_mode((900, 700))
 
 # Background
 background = pygame.image.load('background.png')
@@ -39,8 +39,8 @@ for i in range(num_of_enemies):
     enemyImg.append(pygame.image.load('monster.png'))
     enemyX.append(random.randint(0, 735))
     enemyY.append(random.randint(50, 150))
-    enemyX_change.append(1.2)
-    enemyY_change.append(30)
+    enemyX_change.append(1.2)  # Changing the horizontal speed of enemy
+    enemyY_change.append(26)   # Changing the vertical speed of enemy
 
 # Bullets
 # Ready - You can't see the bullet on the screen
