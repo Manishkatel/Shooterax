@@ -39,8 +39,8 @@ for i in range(num_of_enemies):
     enemyImg.append(pygame.image.load('monster.png'))
     enemyX.append(random.randint(0, 735))
     enemyY.append(random.randint(50, 150))
-    enemyX_change.append(1.2)  # Changing the horizontal speed of enemy
-    enemyY_change.append(26)   # Changing the vertical speed of enemy
+    enemyX_change.append(1.3)  # Changing the horizontal speed of enemy
+    enemyY_change.append(27)   # Changing the vertical speed of enemy
 
 # Bullets
 # Ready - You can't see the bullet on the screen
